@@ -1,0 +1,2 @@
+# skidka-plus
+Someone project
